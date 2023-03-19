@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "problemsolving",
+      "request": "launch",
+      "mainClass": "problemsolving",
+      "projectName": "c++_cf4f4ca1"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/georgejoseph/Documents/c++",
+      "program": "/Users/georgejoseph/Documents/c++/build/Debug/outDebug"
+    }
+  ]
+}
